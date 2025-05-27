@@ -1,0 +1,21 @@
+1.Revenue Assumptions
+2.Fixed & Variable Cost Assumptions
+3.Building the Income Statement Forecast
+4.Making it Dynamic with Scenario Analysis
+
+
+Formulas :
+
+1.Number of orders = Previous Number of Order(1+Order Growth rate)
+
+2.Revenue =Number of Orders * Average Order Value
+
+3.Gross Profit =Revenue - total cost sold
+
+4.Gross Profit margin = Gross Profit/Revenue
+
+5.Operating Profit = Revenue -(Total operating Expenses+ Total Cost of Product Sold)
+
+6.Operating Profit margin = Operating profit / Revenue 
+
+7.Corporate Tax = Corporate Tax rate* Profit
