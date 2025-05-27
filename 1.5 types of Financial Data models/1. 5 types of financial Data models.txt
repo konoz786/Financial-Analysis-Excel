@@ -1,0 +1,5 @@
+1. ​Variance Analysis Model: Best for tracking your budget vs your actual income and expenses
+2. Capital Budgeting Model: Used for deciding which project you should allocate your money in based on the NPV, IRR and Payback period
+3. Comparable Companies Model: Valuation method based on similar companies and their market valuation
+4. Three Statement Model: Financial model to link the income statement, balance sheet, and cash flow statement and forecast a company's future financials
+5. Discounted Cash Flow Model: Intrinsic valuation based on a company's future cash flows to derive a valuation range
