@@ -1,0 +1,9 @@
+WEIGHTED AVERAGE COST OF CAPITAL (WACC)
+
+
+WHERE:
+E    = Market Value of Equity
+D    = Market Value of Debt
+R_E  = Cost of Equity (%)
+R_D  = Cost of Debt (%)
+T    = Corporate Tax Rate (%)

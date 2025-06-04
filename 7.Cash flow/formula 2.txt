@@ -1,0 +1,15 @@
+┌───────────────────────────────────────────┐
+│           FREE CASH FLOW (FCF)            │
+├───────────────────────────────────────────┤
+│                                           │
+│ FCF = EBIT                                │
+│      - Taxes                              │
+│      + Depreciation & Amortization        │
+│      - Capital Expenditures (CapEx)       │
+│      - Δ Non-Cash Working Capital         │
+│                                           │
+└───────────────────────────────────────────┘
+WHERE:
+• Δ = Change in (Current Period - Prior Period)
+• Non-Cash Working Capital = 
+    (Current Assets - Cash) - (Current Liabilities - Debt)
